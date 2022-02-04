@@ -6,6 +6,18 @@ header{
    padding: 10px 20px;
 }
 
+h1{
+   font-family: 'Press Start 2P', sans-serif;
+   color: #778beb ;
+   text-shadow: 5px 5px 0px #000;
+   margin-top: 12px;
+   transition: transform 100ms linear;
+}
+
+h1:hover{
+   transform: scale(1.08);
+}
+
 nav {
    text-align: right;
 }
@@ -39,5 +51,5 @@ a::before{
 #button:hover{
    transform: scale(1.08);
    background-color: #FFF;
-   color:#5D5FEF
+   color:#5D5FEF;
 }
