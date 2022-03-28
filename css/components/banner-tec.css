@@ -1,4 +1,4 @@
-.banner {
+.banner-tec {
     background-image: url(../../assets/img/Fundo.jpg);
     background-repeat: no-repeat;
     height: 800px;
@@ -7,17 +7,17 @@
     padding-left: 90px;
 }
 
-.banner .wrapper {
+.banner-tec .wrapper {
     display: flex;
     flex-direction: column;
     width: 640px;
 }
 
-.banner .box {
+.banner-tec .main-box {
     margin-bottom: 40px;
 }
 
-.banner .navigation {
+.banner-tec .navigation {
     display: flex;
     justify-content: space-evenly;
 }

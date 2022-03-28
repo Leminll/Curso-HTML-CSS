@@ -1,4 +1,4 @@
-.Logo{
+.main-Logo{
     font-family: 'Press Start 2P', sans-serif;
     color: #778beb ;
     font-size: 30px;
@@ -7,6 +7,6 @@
     transition: transform 100ms linear;
  }
  
- .Logo:hover{
+ .main-Logo:hover{
     transform: scale(1.08);
  }

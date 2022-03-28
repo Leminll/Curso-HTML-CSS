@@ -1,4 +1,4 @@
-.action {
+.action-tec {
     display: inline-flex;
     align-items: center;
     color: #FFF;
@@ -7,7 +7,7 @@
     text-decoration: none;
     margin-right: 30px;
  }
- .action::before{
+ .action-tec::before{
     content: " ";
     background-color: #5D5FEF;
     width: 10px;
